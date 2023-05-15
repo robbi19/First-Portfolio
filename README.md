@@ -26,7 +26,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ---
 
 * Open with VSCode
-* Click  to view the live webpage
+* Click https://robbi19.github.io/First-Portfolio/ to view the live webpage
 * 
 ---
 <img width="937" alt="Screenshot 2023-05-15 154721" src="https://github.com/robbi19/First-Portfolio/assets/128949831/2b42d139-ca87-4faa-9674-81e3a95f2984">
